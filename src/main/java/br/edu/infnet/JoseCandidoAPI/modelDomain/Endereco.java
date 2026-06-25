@@ -5,10 +5,10 @@ public class Endereco {
     private String cep;
     private String localidade;
 
-    //TODO toString do endereço
-
-    //TODO contrutor do endereço
-
+    @Override
+    public String toString() {
+        return cep + " - " + localidade;
+    }
 
     public String getCep() {
         return cep;

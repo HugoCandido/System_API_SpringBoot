@@ -9,7 +9,9 @@ Desenvolvimento de uma organização e classificação de usuarios ou clientes, 
 
 ## 🎯 Funcionalidades
 ✅ Cadastro de usuários
+
 ✅ Consulta de dados via API externa
+
 ❌ Integração com banco de dados (desenvolvimento)
 
 ## 🧠 Aprendizados

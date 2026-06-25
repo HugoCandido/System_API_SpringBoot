@@ -8,6 +8,8 @@ public class Professor extends Usuario{
     }
 
     //TODO construtor professor
+
+
     //TODO toString do professor
 
 }
